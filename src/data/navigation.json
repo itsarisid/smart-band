@@ -1,0 +1,20 @@
+{
+  "navigationItems": [
+    {
+      "to": "/about",
+      "label": "About"
+    },
+    {
+      "to": "/pricing",
+      "label": "Plans"
+    },
+    {
+      "to": "/blog",
+      "label": "Safety Tips"
+    },
+    {
+      "to": "/contact",
+      "label": "Support"
+    }
+  ]
+}

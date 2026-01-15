@@ -1,0 +1,85 @@
+{
+  "pricing": {
+    "title": "Flexible plans for every family's safety",
+    "subtitle": "Choose the protection level that suits your child's needs. All plans include the SafeLoop band.",
+    "monthlyLabel": "Monthly Subscription",
+    "annualLabel": "Annual (Get 2 Months Free)",
+    "savings": "Save 20%"
+  },
+  "plans": [
+    {
+      "id": "starter",
+      "name": "Starter",
+      "description": "Essential tracking for peace of mind",
+      "monthlyPrice": 9,
+      "annualPrice": 90,
+      "features": [
+        "Real-time GPS Tracking",
+        "SOS Panic Button",
+        "Battery Status Alerts",
+        "Basic Parent App Access"
+      ],
+      "ctaText": "Get Starter",
+      "ctaLink": "#",
+      "popular": false
+    },
+    {
+      "id": "guardian",
+      "name": "Guardian",
+      "description": "Enhanced safety features for active kids",
+      "monthlyPrice": 15,
+      "annualPrice": 150,
+      "features": [
+        "Everything in Starter",
+        "Geofencing (Safe Zones)",
+        "30-Day Location History",
+        "Two-way Voice Calls"
+      ],
+      "ctaText": "Get Guardian",
+      "ctaLink": "#",
+      "popular": true
+    },
+    {
+      "id": "family",
+      "name": "Family",
+      "description": "Complete protection for the whole family",
+      "monthlyPrice": 25,
+      "annualPrice": 250,
+      "features": [
+        "Up to 3 Bands Included",
+        "Priority 24/7 Support",
+        "Advanced Health Metrics",
+        "Extended Warranty"
+      ],
+      "ctaText": "Get Family",
+      "ctaLink": "#",
+      "popular": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How long does the battery last?",
+      "answer": "The SafeLoop band is designed to last up to 7 days on a single charge with normal usage. Power saving modes can extend this to 10 days."
+    },
+    {
+      "question": "Is the band waterproof?",
+      "answer": "Yes, SafeLoop is IP68 rated, meaning it can withstand swimming, rain, and everyday splashes."
+    },
+    {
+      "question": "Does it require a SIM card?",
+      "answer": "SafeLoop comes with a built-in eSIM that connects to major networks automatically. No separate SIM card is needed."
+    },
+    {
+      "question": "Can I listen to the surroundings?",
+      "answer": "In emergency SOS mode, the parent can initiate a one-way listen-in feature to assess the situation."
+    },
+    {
+      "question": "What is the range of the tracking?",
+      "answer": "SafeLoop uses GPS, WiFi, and Cellular triangulation, so it works anywhere there is cell service, globally."
+    },
+    {
+      "question": "How do I get alerts?",
+      "answer": "You receive instant push notifications on the SafeLoop Parent App (iOS and Android) for SOS, geofence breaches, and low battery."
+    }
+  ]
+}

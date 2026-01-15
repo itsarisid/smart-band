@@ -1,0 +1,123 @@
+{
+  "hero": {
+    "label": "Our Mission",
+    "title": "About SafeLoop",
+    "description": "Connecting parents and children with smart technology.",
+    "content": "SafeLoop is a technology company dedicated to child safety. We create wearable devices that give parents peace of mind while allowing children the freedom to explore the world safely.",
+    "image": "/images/story-family.png",
+    "ctaText": "Read our story"
+  },
+  "stats": [
+    {
+      "value": "100k+",
+      "label": "Protected Kids"
+    },
+    {
+      "value": "50+",
+      "label": "Countries"
+    },
+    {
+      "value": "1M+",
+      "label": "Safe Alerts Sent"
+    },
+    {
+      "value": "4.9",
+      "label": "App Store Rating"
+    }
+  ],
+  "story": {
+    "label": "Our Story",
+    "title": "Founded by parents, for parents",
+    "content": "SafeLoop began when our founders realized there wasn't a simple, screen-free way to stay connected with their young children. Smartphone watches were too distracting, and simple trackers weren't reliable. We built SafeLoop to bridge that gap—providing robust safety features without the distractions of a smartphone.",
+    "images": [
+      "/images/abouts/img2.png",
+      "/images/abouts/img4.png",
+      "/images/abouts/img3.png",
+      "/images/abouts/img.png"
+    ]
+  },
+  "team": [
+    {
+      "name": "Guy Hawkins",
+      "role": "CEO & Co-Founder",
+      "image": "/images/avatar1.png"
+    },
+    {
+      "name": "Brooklyn Simmons",
+      "role": "Head of Safety",
+      "image": "/images/avatar2.png"
+    },
+    {
+      "name": "Floyd Miles",
+      "role": "Lead Product Designer",
+      "image": "/images/avatar3.png"
+    },
+    {
+      "name": "Jenny Wilson",
+      "role": "Head of Support",
+      "image": "/images/avatar4.png"
+    },
+    {
+      "name": "Esther Howard",
+      "role": "Chief Technology Officer",
+      "image": "/images/avatar5.png"
+    },
+    {
+      "name": "Leslie Alexander",
+      "role": "Safety Algorithm Engineer",
+      "image": "/images/avatar6.png"
+    }
+  ],
+  "jobs": [
+    {
+      "position": "Senior Mobile Engineer",
+      "department": "engineering",
+      "commitment": "Full Time",
+      "location": "Remote",
+      "category": "software-engineering"
+    },
+    {
+      "position": "Product Designer",
+      "department": "design",
+      "commitment": "Full Time",
+      "location": "San Francisco",
+      "category": "design"
+    },
+    {
+      "position": "Safety Operations Manager",
+      "department": "operations",
+      "commitment": "Full Time",
+      "location": "New York",
+      "category": "operations"
+    },
+    {
+      "position": "Customer Success Specialist",
+      "department": "support",
+      "commitment": "Full Time",
+      "location": "Austin",
+      "category": "customer-success"
+    }
+  ],
+  "jobCategories": [
+    {
+      "id": "all",
+      "label": "All"
+    },
+    {
+      "id": "design",
+      "label": "Design"
+    },
+    {
+      "id": "software-engineering",
+      "label": "Engineering"
+    },
+    {
+      "id": "customer-success",
+      "label": "Support"
+    },
+    {
+      "id": "operations",
+      "label": "Operations"
+    }
+  ]
+}

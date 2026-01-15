@@ -1,0 +1,62 @@
+{
+  "secureAccessFeatures": [
+    "Real-time GPS Location Tracking",
+    "SOS Panic Button with Instant Alerts",
+    "Long-lasting Battery Life (7 Days)"
+  ],
+  "brandLogos": [
+    "/images/figma.svg",
+    "/images/notion.svg",
+    "/images/slack.svg",
+    "/images/spotify.svg",
+    "/images/twitter.svg",
+    "/images/desktop.svg"
+  ],
+  "whyUsCards": [
+    {
+      "id": 1,
+      "image": "/images/bg-safety.png",
+      "category": "Safety",
+      "title": "Always know where they are"
+    },
+    {
+      "id": 2,
+      "image": "/images/feature-gps.png",
+      "category": "Alerts",
+      "title": "Instant notifications in emergencies"
+    },
+    {
+      "id": 3,
+      "image": "/images/story-family.png",
+      "category": "Health",
+      "title": "Monitor activity and vitals"
+    }
+  ],
+  "billingTabs": [
+    {
+      "id": "introduction",
+      "label": "Overview",
+      "image": "/images/app-overview.png"
+    },
+    {
+      "id": "aggregation",
+      "label": "Live Tracking",
+      "image": "/images/app-tracking.png"
+    },
+    {
+      "id": "pricing",
+      "label": "SOS Alerts",
+      "image": "/images/app-overview.png"
+    },
+    {
+      "id": "integrations",
+      "label": "Geofencing",
+      "image": "/images/app-tracking.png"
+    },
+    {
+      "id": "api",
+      "label": "Parent App",
+      "image": "/images/app-overview.png"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "initialTestimonials": {
+    "column1": [
+      {
+        "id": 1,
+        "avatar": "/images/avatar2.png",
+        "name": "Sarah Jenkins",
+        "username": "@sarahj_mom",
+        "content": "The peace of mind SafeLoop gives me is priceless. I always know my son is safe on his way to school.",
+        "time": "10:30 AM",
+        "likes": "450 like",
+        "comments": "24 com."
+      },
+      {
+        "id": 2,
+        "avatar": "/images/avatar6.png",
+        "name": "David Chen",
+        "username": "@dchen_dad",
+        "content": "Battery life is amazing! We only charge it once a week. The panic button feature is a lifesaver.",
+        "time": "2:15 PM",
+        "likes": "120 like",
+        "comments": "12 com."
+      }
+    ],
+    "column2": [
+      {
+        "id": 3,
+        "avatar": "/images/avatar3.png",
+        "name": "Emily Wilson",
+        "username": "@emilyw_safe",
+        "content": "We tried other trackers but SafeLoop is by far the most accurate. The geofencing alerts are instant.",
+        "time": "9:00 AM",
+        "likes": "890 like",
+        "comments": "145 com."
+      },
+      {
+        "id": 4,
+        "avatar": "/images/avatar3.png",
+        "name": "Mark Taylor",
+        "username": "@markt_parent",
+        "content": "My daughter loves wearing it because it looks cool and isn't bulky. She feels safer knowing I'm just a click away.",
+        "time": "4:45 PM",
+        "likes": "300 like",
+        "comments": "40 com."
+      }
+    ],
+    "column3": [
+      {
+        "id": 5,
+        "avatar": "/images/avatar4.png",
+        "name": "Jessica brown",
+        "username": "@jessb_mom",
+        "content": "The location history helped us retrace steps when my son lost his backpack. Super useful feature!",
+        "time": "11:20 AM",
+        "likes": "210 like",
+        "comments": "30 com."
+      },
+      {
+        "id": 6,
+        "avatar": "/images/avatar7.png",
+        "name": "Tom Harris",
+        "username": "@tomh_dad",
+        "content": "Setup was a breeze. Had it working in 5 minutes. The app is very intuitive.",
+        "time": "6:10 PM",
+        "likes": "150 like",
+        "comments": "18 com."
+      }
+    ],
+    "column4": [
+      {
+        "id": 7,
+        "avatar": "/images/avatar5.png",
+        "name": "Amanda White",
+        "username": "@amandaw_family",
+        "content": "Highly recommend for any parent. It strikes the perfect balance between safety and independence for kids.",
+        "extraContent": [
+          "My kids feel more confident playing outside knowing they can reach me instantly.",
+          "Customer support was also very helpful when I had a question about the subscription."
+        ],
+        "time": "1:00 PM",
+        "likes": "500 like",
+        "comments": "55 com."
+      },
+      {
+        "id": 8,
+        "avatar": "/images/avatar8.png",
+        "name": "Chris Martin",
+        "username": "@chrism_parent",
+        "content": "Great build quality. It survived a trip to the beach and the swimming pool without any issues.",
+        "time": "3:30 PM",
+        "likes": "280 like",
+        "comments": "25 com."
+      }
+    ]
+  },
+  "hiddenTestimonials": {
+    "column1": [],
+    "column2": [],
+    "column3": [],
+    "column4": []
+  }
+}
