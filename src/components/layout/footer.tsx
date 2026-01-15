@@ -13,19 +13,18 @@ function Footer() {
           <div className="relative pt-20 px-4 bg-gray-900/20 overflow-hidden rounded-6xl">
             <div className="text-center md:max-w-xl mx-auto pb-20">
               <span className="inline-block mb-4 text-sm text-green-400 font-medium tracking-tighter">
-                Learn to code
+                Get your SafeLoop today
               </span>
               <h2 className="font-heading mb-6 text-7xl text-white tracking-8xl">
-                Want to build templates like this one?
+                Order now and get 10% off
               </h2>
               <a
                 className="mb-8 text-gray-300 relative z-10 hover:text-white transition-colors duration-200"
-                href="https://www.pixelrocket.store"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Visit www.pixelrocket.store and learn to become a frontend web
-                developer today
+                Order now
               </a>
               <img
                 className="absolute -bottom-24 right-0 z-0"
